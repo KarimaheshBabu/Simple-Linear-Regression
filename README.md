@@ -1,14 +1,15 @@
 # Simple-Linear-Regression
 #### Explanation of the Code
 
-1. Libraries: We import necessary libraries like numpy, pandas, sklearn, and matplotlib.
-2. Data Preparation: We create a DataFrame containing the size and price of houses.
-3. Feature and Target: We separate the feature (Size) and the target (Price).
-4. Train-Test Split: We split the data into training and testing sets.
-5. Model Training: We create a LinearRegression model and train it using the training data.
-6. Predictions: We use the trained model to predict house prices for the test set.
-7. Evaluation: We evaluate the model using Mean Squared Error (MSE) and R-squared (R²) metrics.
-8. Visualization: We plot the original data points and the regression line to visualize the model's performance.
+1. Libraries:
+We import necessary libraries like numpy, pandas, sklearn, and matplotlib.
+3. Data Preparation: We create a DataFrame containing the size and price of houses.
+4. Feature and Target: We separate the feature (Size) and the target (Price).
+5. Train-Test Split: We split the data into training and testing sets.
+6. Model Training: We create a LinearRegression model and train it using the training data.
+7. Predictions: We use the trained model to predict house prices for the test set.
+8. Evaluation: We evaluate the model using Mean Squared Error (MSE) and R-squared (R²) metrics.
+9. Visualization: We plot the original data points and the regression line to visualize the model's performance.
 
 #### Evaluation Metrics
 
